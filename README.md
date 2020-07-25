@@ -13,4 +13,4 @@ python aircamboard.py
 
 ## Demo
 
-<img src="demo/1.gif" width="20%"><img src="demo/2.gif" width="20%"><img src="demo/3.gifg" width="20%"><img src="demo/4.gif" width="20%">
+<img src="demo/1.gif" width="20%"><img src="demo/2.gif" width="20%"><img src="demo/3.gif" width="20%"><img src="demo/4.gif" width="20%">
